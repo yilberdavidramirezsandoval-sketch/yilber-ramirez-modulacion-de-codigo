@@ -1,5 +1,4 @@
 # Verificación de Cumplimiento de Metas de Ventas
-
 meta_ventas = 5000
 vendedores_con_meta = 0
 total_vendedores = 0
